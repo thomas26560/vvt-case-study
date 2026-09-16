@@ -12,6 +12,10 @@
 
 </div>
 
+![Synthetic VVT desktop and mobile product preview](assets/vvt-product-preview.svg)
+
+<p align="center"><em>Fictional interface and synthetic data — no production screen or workflow.</em></p>
+
 ## Overview
 
 VVT is a browser-based application designed around the daily reality of a technical and operational team in a thermal spa environment.
@@ -113,7 +117,7 @@ The application, its data and its production environment remain private. Any fut
 ## Planned public additions
 
 - a sanitised product map;
-- synthetic interface mock-ups;
+- additional synthetic interface views;
 - selected non-sensitive product decisions;
 - lessons learned from field adoption.
 
