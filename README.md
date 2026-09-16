@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/vvt-logo.jpg" alt="ValVital Terrain project logo" width="460">
+
 # VVT
 
 ### A field-driven operations and maintenance platform
