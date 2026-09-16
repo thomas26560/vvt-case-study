@@ -70,6 +70,10 @@ The public description is intentionally high-level. VVT includes:
 4. **Test with users** — compare the design with real working conditions.
 5. **Improve continuously** — treat feedback as product input, not as an afterthought.
 
+![Public VVT product approach](assets/vvt-product-approach.svg)
+
+<p align="center"><em>Public method view — this is not a representation of the application's architecture.</em></p>
+
 ## Outcome
 
 VVT moved from an internal idea to a tool used in day-to-day operations.
@@ -116,7 +120,6 @@ The application, its data and its production environment remain private. Any fut
 
 ## Planned public additions
 
-- a sanitised product map;
 - additional synthetic interface views;
 - selected non-sensitive product decisions;
 - lessons learned from field adoption.
